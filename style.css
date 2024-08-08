@@ -1,0 +1,36 @@
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+    margin: 0px;
+
+       
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: rgb(252, 246, 246);
+    bottom: 0;
+  background-color:rgb(178, 173, 173);
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
+
+canvas
+{
+border: 5px solid rgb(255, 254, 254);
+border-radius: 20px;
+box-shadow: 5px 5px 5px grey;
+}
+body{
+    font-family: "Josefin Sans", sans-serif;
+}
